@@ -1,8 +1,10 @@
+
 var x =  "Leveraging Social Proof for Growth";
 var y = "Duolingo removes language barriers by connecting people that need websites translated with students that are learning a language.Through trial and error the team at Duolingo has astered the art of data driven product development through AB testing and focus on the right metrics to optimize.driven product development through AB testing and a focus on the right metrics to optimize.";
 var z = " &#x1F64E;Anna   &#x1F552; 2 days ago "
 document.getElementById("title").innerHTML = x ;
-document.getElementById("para").innerHTML = y ;
+
+document.getElementById("para").innerHTML =y;
 document.getElementById("post").innerHTML =" &#x1F64E;Anna   &#x1F552; Today  ";
 
 document.getElementById("ftitle").innerHTML = x ;

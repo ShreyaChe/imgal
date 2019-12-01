@@ -89,7 +89,7 @@
     margin-top: 8px;
     vertical-align: middle;
     width: 100%;
-    min-height:12%;
+    min-height:13%;
   }
   
    
@@ -120,20 +120,21 @@
   }
   
   .col2 img {
-    min-height: 17.5% ;
+    min-height: 19.5% ;
     vertical-align: middle;
     width: 100%;
   }
   div.desc1 {
-    padding-top: 0.01%;
+    padding-top: 0.007%;
+    margin-top: 3.5%;
     padding-bottom: 19%;
     font-size: 150%;
     background-color: rgb(110, 103, 153);
     color: white;
     text-align: center;
-    min-height: 53%;
+    min-height: 54.5%;
     font-weight: bold;
-    margin-bottom: 7%;
+   
     
   }
 
@@ -164,7 +165,7 @@
   div.desc2 {
     padding-top: 4%;
     text-align: left;
-    min-height:34.5%;
+    min-height:35%;
     background-color: rgb(110, 103, 153);
     color: white;
     padding-left: 4%; 
@@ -177,7 +178,7 @@
     padding-left: 6%;
     background-color: rgb(110, 103, 153);
     color: white;
-    min-height: 22%;
+    min-height: 23%;
     width: 207.1%;
        
   }
