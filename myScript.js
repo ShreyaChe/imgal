@@ -242,3 +242,9 @@ document.getElementById("athrtmb1").innerHTML = a ;
 document.getElementById("athrtmb2").innerHTML = a ; 
 document.getElementById("athrtmb3").innerHTML = a ; 
 
+window.onload = function() {
+  if(!window.location.hash) {
+      window.location = window.location + '#loaded';
+      window.location.reload();
+  }
+}
