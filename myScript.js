@@ -241,3 +241,18 @@ document.getElementById("athrtmb3").style.width = document.getElementById("imb3"
 document.getElementById("athrtmb1").innerHTML = a ; 
 document.getElementById("athrtmb2").innerHTML = a ; 
 document.getElementById("athrtmb3").innerHTML = a ; 
+
+function loadImage() {
+document.getElementById("teama1").style.width = f + 'px';
+document.getElementById("teama2").style.width = document.getElementById("ima2").width + 'px';
+document.getElementById("teama3").style.width = document.getElementById("ima3").width + 'px';
+document.getElementById("heada1").style.width = f + 'px';
+document.getElementById("heada2").style.width = document.getElementById("ima2").width + 'px';
+document.getElementById("heada3").style.width = document.getElementById("ima3").width + 'px';
+
+document.getElementById("cntnta1").style.width = f + 'px';
+document.getElementById("cntnta2").style.width = document.getElementById("ima2").width + 'px';
+document.getElementById("cntnta3").style.width = document.getElementById("ima3").width + 'px';
+
+
+}
